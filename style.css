@@ -12,11 +12,10 @@
 
 .Projects a {
     text-decoration: none; 
-    color: black;
+    color: aliceblue;
 }
 
 .Projects a:hover {
     transform: scale(1.10);
-    color: aliceblue;
     transition: 0.5s ease;
 }
