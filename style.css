@@ -1,0 +1,22 @@
+
+.profile-icon {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.space {
+    color: azure;
+}
+
+.Projects a {
+    text-decoration: none; 
+    color: black;
+}
+
+.Projects a:hover {
+    transform: scale(1.10);
+    color: aliceblue;
+    transition: 0.5s ease;
+}
