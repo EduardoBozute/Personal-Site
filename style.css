@@ -6,16 +6,20 @@
     object-fit: cover;
 }
 
-.space {
-    color: azure;
-}
-
 .Projects a {
     text-decoration: none; 
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 .Projects a:hover {
     transform: scale(1.10);
     transition: 0.5s ease;
+}
+
+.Skills .card {
+    display: flex;
+}
+
+.Skills .card-body {
+    min-height: max-content;
 }
